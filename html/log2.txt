@@ -1,0 +1,11 @@
+err:: No salio nada en la union de data  : 1639
+ err:: error inesperado  : 1639
+ err:: No salio nada en la union de data  : 15
+ err:: error inesperado  : 15
+ err:: No salio nada en la union de data  : 15
+ err:: error inesperado  : 15
+ err:: No salio nada en la union de data  : 15
+ err:: error inesperado  : 15
+ err:: error inesperado  : 365
+ err:: error inesperado  : 2414
+ 
